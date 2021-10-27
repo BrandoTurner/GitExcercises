@@ -1,4 +1,3 @@
-lion pink
-tiger
+
+
 leopard
-turtle
