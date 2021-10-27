@@ -1,5 +1,5 @@
-lion
-tiger
+lion green
+tiger blue
 leopard
 turtle
 Cheetah
