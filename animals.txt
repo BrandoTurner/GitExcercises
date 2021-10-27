@@ -1,7 +1,3 @@
 lion green
 tiger blue
 leopard
-turtle
-Cheetah
-elephant
-snake
